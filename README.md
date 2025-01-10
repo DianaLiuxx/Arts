@@ -1,2 +1,2 @@
 # Arts
-The intersection of code and visual creativity
+The intersection of code and visual creativity.
